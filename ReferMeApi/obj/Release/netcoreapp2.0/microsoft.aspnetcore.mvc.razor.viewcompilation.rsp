@@ -1,0 +1,5 @@
+C:\ReferMeApi\ReferMeApi\ReferMeApi
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=ReferMeApi
+--content-root=C:\ReferMeApi\ReferMeApi\ReferMeApi
+--file=

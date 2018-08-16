@@ -1,0 +1,11 @@
+C:\ReferMeApi\ReferMeApi\ReferMeApi\bin\Release\netcoreapp2.0\ReferMeApi.deps.json
+C:\ReferMeApi\ReferMeApi\ReferMeApi\bin\Release\netcoreapp2.0\ReferMeApi.runtimeconfig.json
+C:\ReferMeApi\ReferMeApi\ReferMeApi\bin\Release\netcoreapp2.0\ReferMeApi.runtimeconfig.dev.json
+C:\ReferMeApi\ReferMeApi\ReferMeApi\bin\Release\netcoreapp2.0\ReferMeApi.dll
+C:\ReferMeApi\ReferMeApi\ReferMeApi\bin\Release\netcoreapp2.0\ReferMeApi.pdb
+C:\ReferMeApi\ReferMeApi\ReferMeApi\obj\Release\netcoreapp2.0\ReferMeApi.csprojResolveAssemblyReference.cache
+C:\ReferMeApi\ReferMeApi\ReferMeApi\obj\Release\netcoreapp2.0\ReferMeApi.csproj.CoreCompileInputs.cache
+C:\ReferMeApi\ReferMeApi\ReferMeApi\obj\Release\netcoreapp2.0\ReferMeApi.AssemblyInfoInputs.cache
+C:\ReferMeApi\ReferMeApi\ReferMeApi\obj\Release\netcoreapp2.0\ReferMeApi.AssemblyInfo.cs
+C:\ReferMeApi\ReferMeApi\ReferMeApi\obj\Release\netcoreapp2.0\ReferMeApi.dll
+C:\ReferMeApi\ReferMeApi\ReferMeApi\obj\Release\netcoreapp2.0\ReferMeApi.pdb
